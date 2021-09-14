@@ -1,6 +1,13 @@
 # Getting Started 
 
-Rename .env.example to .env and change the api key to your own
+## Generate api key
+
+Register/login to cryptocompare at [https://www.cryptocompare.com](https://www.cryptocompare.com)
+
+Generate your api key at  [https://www.cryptocompare.com/cryptopian/api-keys](https://www.cryptocompare.com/cryptopian/api-keys)
+
+## ENV setup
+Rename .env.example to .env and change the api key to your generated key
 
 ## Available Scripts
 
