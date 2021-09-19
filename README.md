@@ -9,6 +9,10 @@ Generate your api key at  [https://www.cryptocompare.com/cryptopian/api-keys](ht
 ## ENV setup
 Rename .env.example to .env and change the api key to your generated key
 
+## Packages setup
+Run `yarn install`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
